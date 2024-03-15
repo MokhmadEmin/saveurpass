@@ -1,0 +1,7 @@
+CREATE TABLE "passwords" (
+	"id" INTEGER PRIMARY KEY AUTOINCREMENT,
+	"auth_url" TEXT,
+	"programm" TEXT,
+	"nickname" TEXT,
+	"password" TEXT
+);
