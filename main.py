@@ -28,6 +28,7 @@ SHOW ALL
 ROOT_ON
 ROOT_OFF
 RENAME_ROOT_PASSWORD
+INTRO
 CLEAR
 EXIT
 	''')
@@ -179,6 +180,29 @@ while True:
 				print("Restart programm.")
 			if ask_root_password != root_password:
 				print(">Wrong password.")
+
+
+		if command == "INTRO":
+			print(Fore.GREEN + """
+█▀ ▄▀█ █░█ █▀▀   █░█ █▀█   █▀█ ▄▀█ █▀ █▀
+▄█ █▀█ ▀▄▀ ██▄   █▄█ █▀▄   █▀▀ █▀█ ▄█ ▄█
+
+""")
+			print(Fore.WHITE + "SaveUrPass - it is a command, local, safe and open password manager.\n")
+			print(Fore.LIGHTRED_EX + "Commands:")
+			print(Fore.WHITE + f'''
+CREATE
+DELETE <service name>
+PUT <service name>
+SHOW <service name>
+SHOW ALL
+ROOT_ON
+ROOT_OFF
+RENAME_ROOT_PASSWORD
+INTRO
+CLEAR
+EXIT
+				''')
 
 
 		if command == "CLEAR":
