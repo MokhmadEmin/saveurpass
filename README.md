@@ -40,3 +40,6 @@ And start this.
 - INTRO
 - CLEAR
 - EXIT
+
+
+# P. S. Start root password is empty.
