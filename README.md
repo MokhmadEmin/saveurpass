@@ -34,5 +34,4 @@ pip3 install -r requirements.txt
 And Start app!<br>
 ```
 python3 main.py
-```<br>
-![alt text](https://github.com/MokhmadEmin/saveurpass/blob/main/img_md/screenshot.JPG?raw=true)
+```
