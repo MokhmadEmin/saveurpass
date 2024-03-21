@@ -18,7 +18,7 @@ We go into the virtual environment and download libraries via pip.
 And Start app!  
 ```python3 main.py```  
 # ![alt text](https://github.com/MokhmadEmin/saveurpass/blob/main/img_md/screenshot.JPG?raw=true)
-If you have Windows, then save the zip or make a Git client via Windows.  
+If you have Windows, then save the zip or install with a Git client via Windows.  
 You need to install [Python language](https://python.org).  
 After zir installing, you need to download the virtual environment,  
 ```python -m venv venv```  
