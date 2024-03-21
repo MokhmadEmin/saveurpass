@@ -1,7 +1,7 @@
 ![alt text](https://github.com/MokhmadEmin/saveurpass/blob/main/img_md/logo.png?raw=true)
-#SaveUrPass - it is a command, local, safe and open password manager.  
+# SaveUrPass - it is a command, local, safe and open password manager.
 You can save all your passwords on your computer, knowing only one  
-###How to install:  
+### How to install:
 At first, you need install programming language "Python".  
 Linux:  
 ```sudo [package manager name] install python3```  
