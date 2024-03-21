@@ -14,7 +14,7 @@ Go to the repository source and download the virtual environment.
 ```python3 -m venv venv```  
 We go into the virtual environment and download libraries via pip.  
 ```. venv/bin/activate```  
-```pip3 install -r requirements.txt```  
+```pip3 install requirements.txt```  
 And Start app!  
 ```python3 main.py```  
 # ![alt text](https://github.com/MokhmadEmin/saveurpass/blob/main/img_md/screenshot.JPG?raw=true)
