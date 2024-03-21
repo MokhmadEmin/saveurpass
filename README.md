@@ -17,4 +17,4 @@ We go into the virtual environment and download libraries via pip.
 ```pip3 install -r requirements.txt```  
 And Start app!  
 ```python3 main.py```  
-![alt text](https://github.com/MokhmadEmin/saveurpass/blob/main/img_md/screenshot.JPG?raw=true)
+# ![alt text](https://github.com/MokhmadEmin/saveurpass/blob/main/img_md/screenshot.JPG?raw=true)
